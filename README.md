@@ -1,7 +1,3 @@
-Here’s the revised README with the clarification on contributions being voluntary:
-
----
-
 # Disutils Team 
 
 Welcome to **Disutils Team**! We're a group of developers focused on creating powerful and efficient bots for various purposes. Our bots, which include **Sentinel**, **Playdis**, **UtiliCore**, **Harmodify**, **HelpDesk**, **Spotlight**, and **PrivateEyes**, are built to make managing, entertaining, securing, and moderating discord communities easier. 
