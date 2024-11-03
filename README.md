@@ -1,14 +1,20 @@
+Here’s the revised README with the clarification on contributions being voluntary:
+
+---
+
 # Disutils Team 
 
-Welcome to **Disutils Team**! We're a group of developers focused on creating powerful and efficient bots for various purposes. Our bots, which include **Sentinel**, **Playdis**, **UtiliCore**, **Harmodify**, **HelpDesk**, **Spotlight**, and **PrivateEyes**, are built to make managing, entertaining, securing, and moderating digital communities easier. 
+Welcome to **Disutils Team**! We're a group of developers focused on creating powerful and efficient bots for various purposes. Our bots, which include **Sentinel**, **Playdis**, **UtiliCore**, **Harmodify**, **HelpDesk**, **Spotlight**, and **PrivateEyes**, are built to make managing, entertaining, securing, and moderating discord communities easier. 
 
-While Disutils has a variety of bots designed to make discord a better place, **none of these bots are open source**. This means that our codebase is private and isn't available for public access. However, we’re constantly looking to expand our team and collaborate with talented people who share our vision.
+While Disutils has a variety of bots designed to make Discord a better place, **none of these bots are open source**. This means that our codebase is private and isn't available for public access. However, we’re constantly looking to expand our team and collaborate with talented people who share our vision.
 
 ---
 
 ## Want to Join the Disutils Team?
 
-If you're excited about contributing to our projects and have a passion for developing tools that make a difference, we’d love to hear from you! We're currently looking for helpers and team members in various roles.
+If you're excited about contributing to our projects and have a passion for developing tools that make a difference, we’d love to hear from you! Please note that all contributions to the Disutils Team are **voluntary**. This is a **collaborative effort for those who want to gain experience, share their skills, and make an impact**—it is not a paid position. 
+
+We're currently looking for helpers and team members in various roles, so if you're ready to dive in, we’d love to have you onboard!
 
 ---
 
@@ -35,6 +41,14 @@ We have room for various roles, such as:
 
 ---
 
-Each role is essential to the success and growth of Disutils. Whether you're a coder, creative, organizer, or leader, there's a place for you here! If you're ready to join us in building the next generation of bot technology, [apply here](https://disutils.com/apply) and take your first step toward joining the Disutils Team.
+## Investments & Support
+
+Want to support Disutils Team and help us continue building advanced tools for the community? We gladly welcome any donations, which go directly toward developing, maintaining, and enhancing our bot offerings. By investing in Disutils, you’re helping us reach new heights and deliver better services. 
+
+You can show your support by buying us a coffee here: [https://buymeacoffee.com/disutils](https://buymeacoffee.com/disutils).
+
+---
+
+Each role and every bit of support is essential to the success and growth of Disutils. Whether you're a coder, creative, organizer, or contributor, there's a place for you here! If you're ready to join us in building the next generation of bot technology, [apply here](https://disutils.com/apply) and take your first step toward joining the Disutils Team.
 
 **So, are you ready to make a difference with Disutils? Apply today and join us in building the future of bot-driven solutions!**
