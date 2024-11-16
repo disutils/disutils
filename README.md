@@ -25,7 +25,11 @@ When you apply, we encourage you to showcase your skills, interests, and experie
 
 We have room for various roles, such as:
 
-- **Developers:** Skilled coders with experience in bot development and automation.
+- **Developers:** Skilled coders with experience in bot development and well versed in python's field which include but are not limited to-
+    - Concepts such as decorators, subclassing, metaclasses, etc 
+    - Object Oriented Programming
+    - Async programming
+    - Good foundation of `discord.py` library
 - **Web Developers:** Talented web developers with expertise in front-end and back-end web technologies to support and enhance our digital presence.
 - **System Administrators:** Experienced professionals capable of efficiently managing server setups, configurations, and maintenance without a hitch.
 - **Managers:** Individuals with strong leadership and organizational skills to oversee Discord server operations while managing team members.
