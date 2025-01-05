@@ -25,19 +25,71 @@ When you apply, we encourage you to showcase your skills, interests, and experie
 
 We have room for various roles, such as:
 
-- **Developers:** Skilled coders with experience in bot development and well versed in python's field which include but are not limited to-
-    - Concepts such as decorators, subclassing, metaclasses, etc 
-    - Object Oriented Programming
-    - Async programming
-    - Good foundation of `discord.py` library
-- **Web Developers:** Talented web developers with expertise in front-end and back-end web technologies to support and enhance our digital presence.
-- **System Administrators:** Experienced professionals capable of efficiently managing server setups, configurations, and maintenance without a hitch.
-- **Managers:** Individuals with strong leadership and organizational skills to oversee Discord server operations while managing team members.
-- **Admins:** Responsible and reliable individuals who can oversee and maintain our Discord servers to ensure a welcoming, well-moderated environment.
-- **Senior Moderators (Mod+):** Experienced moderators with advanced responsibilities and the ability to assist with complex server issues.
-- **Moderators (Mod):** Core team members who help enforce community guidelines and maintain server decorum.
-- **Creative Minds:** Idea-generators and UX designers who contribute to brainstorming sessions, feature ideation, and improving user experience.
-- **Quality Assurance Testers (QA Testers):** Detail-oriented individuals who thoroughly test our bots to guarantee they are running smoothly and free from bugs.
+- **Lead Developers:** Skilled coders with experience in bot development and well-versed in Python. Requirements include:
+  - Concepts such as decorators, subclassing, metaclasses, etc.
+  - Object-Oriented Programming
+  - Async programming
+  - Good foundation of the `discord.py` library
+
+- **Backend Developers:** Talented developers with expertise in server-side technologies. Requirements include:
+  - Proficiency in server-side languages such as Node.js, Python, or PHP
+  - Knowledge of database management systems like MySQL, PostgreSQL, or MongoDB
+  - Experience with RESTful APIs and microservices architecture
+  - Familiarity with version control systems like Git
+
+- **Web Developers:** Talented web developers with expertise in front-end and back-end web technologies. Requirements include:
+  - Proficiency in HTML, CSS, JavaScript, and frameworks like React or Angular
+  - Experience with server-side languages such as Node.js, Python, or PHP
+  - Knowledge of database management systems like MySQL, PostgreSQL, or MongoDB
+  - Familiarity with version control systems like Git
+
+- **Junior Developers:** Entry-level developers eager to learn and grow in the field of bot development. Requirements include:
+  - Basic understanding of programming concepts and languages such as Python or JavaScript
+  - Willingness to learn and adapt to new technologies
+  - Ability to work collaboratively in a team environment
+  - Strong problem-solving skills
+
+- **System Administrators:** Experienced professionals capable of efficiently managing server setups, configurations, and maintenance. Requirements include:
+  - Proficiency in Linux/Unix systems
+  - Experience with server management tools and automation (e.g., Ansible, Puppet, Chef)
+  - Knowledge of networking concepts and protocols
+  - Ability to troubleshoot and resolve server issues
+
+- **Operations Managers:** Individuals with strong organizational and operational skills to ensure smooth and efficient server operations. Requirements include:
+  - Experience in operations management
+  - Ability to develop and implement operational policies and procedures
+  - Strong leadership and team management skills
+  - Excellent problem-solving and decision-making abilities
+
+- **HR Managers:** Professionals with expertise in human resources to manage recruitment, employee relations, and organizational development. Requirements include:
+  - Experience in human resources management
+  - Knowledge of HR policies and best practices
+  - Strong interpersonal and communication skills
+  - Ability to handle confidential information and resolve conflicts effectively
+
+- **Managers:** Individuals with strong leadership and organizational skills to oversee Discord server operations while managing team members. Requirements include:
+  - Excellent communication and interpersonal skills
+  - Experience in team management and coordination
+  - Ability to create and enforce server policies and guidelines
+  - Strong problem-solving skills
+
+- **Administrators:** Responsible and reliable individuals who can oversee and maintain our Discord servers to ensure a welcoming, well-moderated environment. Requirements include:
+  - Experience in server moderation and management
+  - Knowledge of Discord's community guidelines and policies
+  - Ability to handle conflicts and enforce rules fairly
+  - Strong organizational skills
+
+- **Lead Moderators:** Experienced moderators with advanced responsibilities and the ability to assist with complex server issues. Requirements include:
+  - Proven experience in server moderation
+  - Ability to handle escalated issues and provide guidance to other moderators
+  - Strong understanding of server rules and policies
+  - Excellent communication skills
+
+- **Moderators:** Core team members who help enforce community guidelines and maintain server decorum. Requirements include:
+  - Experience in server moderation
+  - Knowledge of server rules and policies
+  - Ability to handle conflicts and enforce rules fairly
+  - Good communication skills
 
 ---
 
