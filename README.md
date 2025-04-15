@@ -101,6 +101,6 @@ You can show your support by buying us a coffee here: [https://buymeacoffee.com/
 
 ---
 
-Each role and every bit of support is essential to the success and growth of Disutils. Whether you're a coder, creative, organizer, or contributor, there's a place for you here! If you're ready to join us in building the next generation of bot technology, [apply here](https://disutils.com/apply) and take your first step toward joining the Disutils Team.
+Each role and every bit of support is essential to the success and growth of Disutils. Whether you're a coder, creative, organizer, or contributor, there's a place for you here! If you're ready to join us in building the next generation of bot technology, [apply here](https://disutils.com/apply-staff) and take your first step toward joining the Disutils Team.
 
 **So, are you ready to make a difference with Disutils? Apply today and join us in building the future of bot-driven solutions!**
