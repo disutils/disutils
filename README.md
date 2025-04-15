@@ -15,7 +15,7 @@ We're currently looking for helpers and team members in various roles, so if you
 ---
 
 ### How to Apply
-To apply for a spot on the Disutils Team, visit our application page here: [https://disutils.com/apply](https://disutils.com/apply). 
+To apply for a spot on the Disutils Team, visit our application page here: [https://disutils.com/apply-staff](https://disutils.com/apply-staff). 
 
 When you apply, we encourage you to showcase your skills, interests, and experience in bot development, management, or any other area you think would be beneficial to our team. We appreciate diverse skill sets and are always on the lookout for those who can bring unique perspectives and creativity.
 
